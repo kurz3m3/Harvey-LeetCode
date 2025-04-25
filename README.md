@@ -10,9 +10,18 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kurz3m3/DS-A/tree/master/0022-generate-parentheses) |
 | [1236-n-th-tribonacci-number](https://github.com/kurz3m3/DS-A/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/kurz3m3/DS-A/tree/master/1236-n-th-tribonacci-number) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kurz3m3/DS-A/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kurz3m3/DS-A/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
