@@ -28,6 +28,7 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -37,6 +38,7 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
