@@ -20,6 +20,7 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kurz3m3/DS-A/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,9 +28,18 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
