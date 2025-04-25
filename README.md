@@ -30,6 +30,7 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 | ------- |
 | [0001-two-sum](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -40,8 +41,10 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 | ------- |
 | [0001-two-sum](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
