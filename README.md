@@ -23,6 +23,7 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 | [0022-generate-parentheses](https://github.com/kurz3m3/DS-A/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
@@ -79,4 +80,8 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
