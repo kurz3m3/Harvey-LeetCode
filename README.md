@@ -1,4 +1,4 @@
-# DS-A
+# Harvey's LeetCode
 My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
 <!---LeetCode Topics Start-->
