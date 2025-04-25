@@ -30,6 +30,7 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -41,6 +42,7 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -57,4 +59,8 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
