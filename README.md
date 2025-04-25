@@ -21,17 +21,20 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 | ------- |
 | [0022-generate-parentheses](https://github.com/kurz3m3/DS-A/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kurz3m3/DS-A/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0079-word-search) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0079-word-search) |
 | [0217-contains-duplicate](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -63,4 +66,9 @@ My LeetCode solutions for the world to see - Created using [LeetHub 2.0](https:/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kurz3m3/Harvey-LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
